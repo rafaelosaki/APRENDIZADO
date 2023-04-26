@@ -8,7 +8,7 @@
 
     <body>
 
-            <!--TAG PARA TÍTULO, QUANTO MAIOR O H MAIOR O TAMANHO DO TEXTO-->
+            <!--TAG PARA TÍTULO, QUANTO MENOR O "H" MAIOR O TAMANHO DO TEXTO-->
             <h6>TÍTULO DO MEU TEXTO</h6> 
             <h5>TÍTULO DO MEU TEXTO</h5>
             <h4>TÍTULO DO MEU TEXTO</h4>
