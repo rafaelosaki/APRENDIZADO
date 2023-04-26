@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+ 
+            <head>
+            <title>ESTUDO DE HTML</title>
+            <meta charset="utf-8" />
+            </head>
+
+    <body>
+
+            <!--TAG PARA TÍTULO, QUANTO MAIOR O H MAIOR O TAMANHO DO TEXTO-->
+            <h6>TÍTULO DO MEU TEXTO</h6> 
+            <h5>TÍTULO DO MEU TEXTO</h5>
+            <h4>TÍTULO DO MEU TEXTO</h4>
+            <h3>TÍTULO DO MEU TEXTO</h3>
+            <h2>TÍTULO DO MEU TEXTO</h2>
+            <h1>TÍTULO DO MEU TEXTO</h1>
+
+            <!--TAG PARA TEXTO - PARÁGRAFO-->
+            <p>Texto para colocar no corpo do website</p>
+
+            <!--TAG PARA TEXTO - INLINE-->
+            <span>Texto para colocar no corpo do website inline1</span>
+
+            <!--TAG PARA QUEBRA DE LINHA-->
+            <br />
+            <span>Texto para colocar no corpo do website inline2</span>
+            <br /><br />
+
+            <!--CODE PARA COLOCAR IMAGEM-->
+            <img src="IMAGENS/imagem.jpg" width="350"/>
+            <br />
+
+            <!--TAG PARA COLOCAR LINK NA PÁGINA-->
+            <a href="https://www.instagram.com/rafael.osaki/">MEU LINK NA PÁGINA</a>
+
+            <!--TAG PARA DIVIDIR A PÁGINA, FACILITANDO PARA ESTILIZAR A PÁGINA-->
+            <div>
+                    <h4>UTILIZANDO DIV</h4>
+                    <p>CONTEÚDO DO TEXTO</p>
+            </div>
+            
+            <!--TAG PARA FAZER TABELA NA PÁGINA-->
+            <table width="900" align="center" border="1">
+                    <thead>
+                        <th>NOME</th>
+                        <th>IDADE</th>
+                        <th>CARGO</th>
+                    </thead>
+
+                    <tbody>
+                        <tr>
+                            <td>RAFAEL</td>
+                            <td>27 ANOS</td>
+                            <td>PROGRAMADOR</td>
+                        </tr>
+                    </tbody>
+            </table>
+
+            <!--TAG PARA FAZER FORMULÁRIO NA PÁGINA-->
+            <form>
+                    <span>Usuário</span>
+                    <input type="text" />  <br />
+                    <span>Senha</span>
+                    <input type="password" /> <br />
+                    <input type="submit" value="Enviar" /> <br />
+                    <button>Enviar</button> <br />
+                    <textarea></textarea>
+            </form>
+
+
+            
+
+    </body>
+</html>
